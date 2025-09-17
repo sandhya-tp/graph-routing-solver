@@ -24,6 +24,16 @@ Each folder includes its own `README.md` explaining the problem setup and soluti
 - RapidJSON
 - Gurobi Optimizer
 - Python 3.12
+
+- ---
+## Disclaimer
+
+This project is an independent educational exercise created to demonstrate algorithms for shortest-path and routing problems.  
+It is **not affiliated with, endorsed by, or associated with Maersk or any other company**.  
+
+The problem description, graph data, and examples have been **rewritten and modified** to ensure they are original and do not reproduce proprietary materials.  
+Any resemblance to interview challenges or assessments from companies is coincidental and used solely for learning and portfolio purposes.
+
 - matplotlib, scikit-learn, pandas
 - Git, GitHub
 
