@@ -1,0 +1,440 @@
+[
+    {
+        "source": "lw",
+        "target": "cf",
+        "demand": 10.5,
+        "predicted_path": [
+            "lw",
+            "yv",
+            "bw",
+            "mw",
+            "gl"
+        ],
+        "edge-utilization": {
+            "lw-yv": 12.5,
+            "yv-bw": 95.0,
+            "bw-mw": 15.0,
+            "mw-gl": 25.0
+        }
+    },
+    {
+        "source": "lw",
+        "target": "gl",
+        "demand": 2,
+        "predicted_path": [
+            "lw",
+            "yv",
+            "bw",
+            "mw",
+            "gl"
+        ],
+        "edge-utilization": {
+            "lw-yv": 12.5,
+            "yv-bw": 95.0,
+            "bw-mw": 15.0,
+            "mw-gl": 25.0
+        }
+    },
+    {
+        "source": "ux",
+        "target": "jm",
+        "demand": 10.5,
+        "predicted_path": [
+            "ux",
+            "if",
+            "cw",
+            "ek",
+            "bt",
+            "lg",
+            "mw",
+            "gl",
+            "yv",
+            "bw"
+        ],
+        "edge-utilization": {
+            "ux-if": 85.0,
+            "if-cw": 70.0,
+            "cw-ek": 90.0,
+            "ek-bt": 75.0,
+            "bt-lg": 20.0,
+            "lg-mw": 40.0,
+            "mw-gl": 25.0,
+            "gl-yv": 25.0,
+            "yv-bw": 95.0
+        }
+    },
+    {
+        "source": "zq",
+        "target": "lw",
+        "demand": 50.6,
+        "predicted_path": [
+            "zq",
+            "gu",
+            "hp",
+            "ux",
+            "if",
+            "cw",
+            "ek",
+            "bt",
+            "lg",
+            "mw",
+            "gl",
+            "yv",
+            "bw"
+        ],
+        "edge-utilization": {
+            "zq-gu": 75.7,
+            "gu-hp": 15.0,
+            "hp-ux": 70.0,
+            "ux-if": 85.0,
+            "if-cw": 70.0,
+            "cw-ek": 90.0,
+            "ek-bt": 75.0,
+            "bt-lg": 20.0,
+            "lg-mw": 40.0,
+            "mw-gl": 25.0,
+            "gl-yv": 25.0,
+            "yv-bw": 95.0
+        }
+    },
+    {
+        "source": "zq",
+        "target": "wz",
+        "demand": 25.1,
+        "predicted_path": [
+            "zq",
+            "gu"
+        ],
+        "edge-utilization": {
+            "zq-gu": 75.7
+        }
+    },
+    {
+        "source": "dq",
+        "target": "qx",
+        "demand": 25.1,
+        "predicted_path": [
+            "dq",
+            "hp",
+            "ux",
+            "if",
+            "cw",
+            "ek",
+            "bt"
+        ],
+        "edge-utilization": {
+            "dq-hp": 25.1,
+            "hp-ux": 70.0,
+            "ux-if": 85.0,
+            "if-cw": 70.0,
+            "cw-ek": 90.0,
+            "ek-bt": 75.0
+        }
+    },
+    {
+        "source": "cf",
+        "target": "co",
+        "demand": 50.6,
+        "predicted_path": [
+            "cf",
+            "bt"
+        ],
+        "edge-utilization": {
+            "cf-bt": 50.0
+        }
+    },
+    {
+        "source": "pm",
+        "target": "gl",
+        "demand": 10.5,
+        "predicted_path": [
+            "pm",
+            "co",
+            "ux"
+        ],
+        "edge-utilization": {
+            "pm-co": 12.5,
+            "co-ux": 73.6
+        }
+    },
+    {
+        "source": "pm",
+        "target": "wz",
+        "demand": 2,
+        "predicted_path": [
+            "pm",
+            "co",
+            "ux"
+        ],
+        "edge-utilization": {
+            "pm-co": 12.5,
+            "co-ux": 73.6
+        }
+    },
+    {
+        "source": "js",
+        "target": "yh",
+        "demand": 50.6,
+        "predicted_path": [
+            "js",
+            "wz",
+            "ux"
+        ],
+        "edge-utilization": {
+            "js-wz": 10.0,
+            "wz-ux": 45.0
+        }
+    },
+    {
+        "source": "js",
+        "target": "hg",
+        "demand": 25.1,
+        "predicted_path": [
+            "js"
+        ],
+        "edge-utilization": {}
+    },
+    {
+        "source": "sg",
+        "target": "ek",
+        "demand": 2,
+        "predicted_path": [
+            "sg",
+            "qx",
+            "am",
+            "bt"
+        ],
+        "edge-utilization": {
+            "sg-qx": 2.0,
+            "qx-am": 77.7,
+            "am-bt": 60.0
+        }
+    },
+    {
+        "source": "yh",
+        "target": "rc",
+        "demand": 10.5,
+        "predicted_path": [
+            "yh",
+            "bw",
+            "mw"
+        ],
+        "edge-utilization": {
+            "yh-bw": 10.0,
+            "bw-mw": 15.0
+        }
+    },
+    {
+        "source": "hg",
+        "target": "if",
+        "demand": 10.5,
+        "predicted_path": [
+            "hg",
+            "mc",
+            "lg"
+        ],
+        "edge-utilization": {
+            "hg-mc": 21.0,
+            "mc-lg": 25.0
+        }
+    },
+    {
+        "source": "hg",
+        "target": "am",
+        "demand": 10.5,
+        "predicted_path": [
+            "hg",
+            "mc",
+            "lg"
+        ],
+        "edge-utilization": {
+            "hg-mc": 21.0,
+            "mc-lg": 25.0
+        }
+    },
+    {
+        "source": "od",
+        "target": "if",
+        "demand": 2,
+        "predicted_path": [
+            "od",
+            "bw"
+        ],
+        "edge-utilization": {
+            "od-bw": 2.0
+        }
+    },
+    {
+        "source": "am",
+        "target": "gu",
+        "demand": 2,
+        "predicted_path": [
+            "am",
+            "bt"
+        ],
+        "edge-utilization": {
+            "am-bt": 60.0
+        }
+    },
+    {
+        "source": "wr",
+        "target": "am",
+        "demand": 2,
+        "predicted_path": [
+            "wr",
+            "sv"
+        ],
+        "edge-utilization": {
+            "wr-sv": 12.5
+        }
+    },
+    {
+        "source": "wr",
+        "target": "dq",
+        "demand": 10.5,
+        "predicted_path": [
+            "wr",
+            "sv"
+        ],
+        "edge-utilization": {
+            "wr-sv": 12.5
+        }
+    },
+    {
+        "source": "co",
+        "target": "jm",
+        "demand": 50.6,
+        "predicted_path": [
+            "co",
+            "ux"
+        ],
+        "edge-utilization": {
+            "co-ux": 73.6
+        }
+    },
+    {
+        "source": "mc",
+        "target": "co",
+        "demand": 25.1,
+        "predicted_path": [
+            "mc",
+            "lg"
+        ],
+        "edge-utilization": {
+            "mc-lg": 25.0
+        }
+    },
+    {
+        "source": "hp",
+        "target": "co",
+        "demand": 2,
+        "predicted_path": [
+            "hp"
+        ],
+        "edge-utilization": {}
+    },
+    {
+        "source": "hp",
+        "target": "qx",
+        "demand": 50.6,
+        "predicted_path": [
+            "hp"
+        ],
+        "edge-utilization": {}
+    },
+    {
+        "source": "mr",
+        "target": "dq",
+        "demand": 50.6,
+        "predicted_path": [
+            "mr",
+            "cw",
+            "ek"
+        ],
+        "edge-utilization": {
+            "mr-cw": 25.0,
+            "cw-ek": 90.0
+        }
+    },
+    {
+        "source": "ec",
+        "target": "pm",
+        "demand": 25.1,
+        "predicted_path": [
+            "ec",
+            "qx",
+            "am",
+            "bt"
+        ],
+        "edge-utilization": {
+            "ec-qx": 25.1,
+            "qx-am": 77.7,
+            "am-bt": 60.0
+        }
+    },
+    {
+        "source": "rc",
+        "target": "sv",
+        "demand": 25.1,
+        "predicted_path": [
+            "rc",
+            "gl"
+        ],
+        "edge-utilization": {
+            "rc-gl": 25.1
+        }
+    },
+    {
+        "source": "jm",
+        "target": "hp",
+        "demand": 50.6,
+        "predicted_path": [
+            "jm",
+            "qx",
+            "am",
+            "bt"
+        ],
+        "edge-utilization": {
+            "jm-qx": 15.0,
+            "qx-am": 77.7,
+            "am-bt": 60.0
+        }
+    },
+    {
+        "source": "ek",
+        "target": "js",
+        "demand": 10.5,
+        "predicted_path": [
+            "ek"
+        ],
+        "edge-utilization": {}
+    },
+    {
+        "source": "kg",
+        "target": "sg",
+        "demand": 25.1,
+        "predicted_path": [
+            "kg",
+            "yv",
+            "bw"
+        ],
+        "edge-utilization": {
+            "kg-yv": 15.0,
+            "yv-bw": 95.0
+        }
+    },
+    {
+        "source": "zr",
+        "target": "js",
+        "demand": 10.5,
+        "predicted_path": [
+            "zr",
+            "co",
+            "ux"
+        ],
+        "edge-utilization": {
+            "zr-co": 10.5,
+            "co-ux": 73.6
+        }
+    }
+]

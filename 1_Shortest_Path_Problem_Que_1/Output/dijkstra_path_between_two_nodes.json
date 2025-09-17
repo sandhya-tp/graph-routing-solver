@@ -1,0 +1,17 @@
+{
+    "shortest_paths": [
+        {
+            "from": "sv",
+            "to": "js",
+            "distance": 196,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw",
+                "js"
+            ]
+        }
+    ]
+}

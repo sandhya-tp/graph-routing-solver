@@ -1,0 +1,23 @@
+# Ignore compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+
+# Ignore build folders
+/build/
+/bin/
+/dist/
+
+# Ignore temporary or cache files
+*.log
+*.tmp
+*.swp
+*~
+
+# Ignore Python cache if applicable
+__pycache__/
+*.pyc
+
+# Ignore VSCode settings (optional)
+.vscode/

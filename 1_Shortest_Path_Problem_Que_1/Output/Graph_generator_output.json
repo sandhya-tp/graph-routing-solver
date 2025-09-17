@@ -1,0 +1,1384 @@
+{
+    "edges": [
+        {
+            "from": "az",
+            "to": "av",
+            "transit_time": 26
+        },
+        {
+            "from": "az",
+            "to": "ax",
+            "transit_time": 79
+        },
+        {
+            "from": "az",
+            "to": "ab",
+            "transit_time": 60
+        },
+        {
+            "from": "az",
+            "to": "af",
+            "transit_time": 64
+        },
+        {
+            "from": "az",
+            "to": "ai",
+            "transit_time": 47
+        },
+        {
+            "from": "az",
+            "to": "ao",
+            "transit_time": 78
+        },
+        {
+            "from": "az",
+            "to": "ah",
+            "transit_time": 27
+        },
+        {
+            "from": "az",
+            "to": "ag",
+            "transit_time": 21
+        },
+        {
+            "from": "az",
+            "to": "an",
+            "transit_time": 12
+        },
+        {
+            "from": "ay",
+            "to": "ap",
+            "transit_time": 96
+        },
+        {
+            "from": "ay",
+            "to": "av",
+            "transit_time": 51
+        },
+        {
+            "from": "ay",
+            "to": "ar",
+            "transit_time": 8
+        },
+        {
+            "from": "ay",
+            "to": "af",
+            "transit_time": 93
+        },
+        {
+            "from": "ay",
+            "to": "aj",
+            "transit_time": 29
+        },
+        {
+            "from": "ay",
+            "to": "ac",
+            "transit_time": 69
+        },
+        {
+            "from": "ay",
+            "to": "ab",
+            "transit_time": 44
+        },
+        {
+            "from": "ay",
+            "to": "as",
+            "transit_time": 26
+        },
+        {
+            "from": "ay",
+            "to": "au",
+            "transit_time": 11
+        },
+        {
+            "from": "ay",
+            "to": "aq",
+            "transit_time": 4
+        },
+        {
+            "from": "ax",
+            "to": "az",
+            "transit_time": 79
+        },
+        {
+            "from": "ax",
+            "to": "ak",
+            "transit_time": 14
+        },
+        {
+            "from": "ax",
+            "to": "av",
+            "transit_time": 70
+        },
+        {
+            "from": "ax",
+            "to": "au",
+            "transit_time": 12
+        },
+        {
+            "from": "ax",
+            "to": "aq",
+            "transit_time": 97
+        },
+        {
+            "from": "ax",
+            "to": "at",
+            "transit_time": 38
+        },
+        {
+            "from": "ax",
+            "to": "an",
+            "transit_time": 58
+        },
+        {
+            "from": "ax",
+            "to": "ad",
+            "transit_time": 67
+        },
+        {
+            "from": "ax",
+            "to": "ac",
+            "transit_time": 46
+        },
+        {
+            "from": "av",
+            "to": "ag",
+            "transit_time": 93
+        },
+        {
+            "from": "av",
+            "to": "ar",
+            "transit_time": 93
+        },
+        {
+            "from": "av",
+            "to": "az",
+            "transit_time": 26
+        },
+        {
+            "from": "av",
+            "to": "ap",
+            "transit_time": 5
+        },
+        {
+            "from": "av",
+            "to": "am",
+            "transit_time": 79
+        },
+        {
+            "from": "av",
+            "to": "ay",
+            "transit_time": 51
+        },
+        {
+            "from": "av",
+            "to": "ax",
+            "transit_time": 70
+        },
+        {
+            "from": "av",
+            "to": "au",
+            "transit_time": 94
+        },
+        {
+            "from": "av",
+            "to": "aw",
+            "transit_time": 95
+        },
+        {
+            "from": "av",
+            "to": "af",
+            "transit_time": 71
+        },
+        {
+            "from": "av",
+            "to": "ao",
+            "transit_time": 25
+        },
+        {
+            "from": "au",
+            "to": "aq",
+            "transit_time": 55
+        },
+        {
+            "from": "au",
+            "to": "ao",
+            "transit_time": 77
+        },
+        {
+            "from": "au",
+            "to": "am",
+            "transit_time": 70
+        },
+        {
+            "from": "au",
+            "to": "ar",
+            "transit_time": 59
+        },
+        {
+            "from": "au",
+            "to": "ae",
+            "transit_time": 37
+        },
+        {
+            "from": "au",
+            "to": "ag",
+            "transit_time": 31
+        },
+        {
+            "from": "au",
+            "to": "ab",
+            "transit_time": 96
+        },
+        {
+            "from": "au",
+            "to": "ax",
+            "transit_time": 12
+        },
+        {
+            "from": "au",
+            "to": "av",
+            "transit_time": 94
+        },
+        {
+            "from": "au",
+            "to": "aj",
+            "transit_time": 65
+        },
+        {
+            "from": "au",
+            "to": "an",
+            "transit_time": 43
+        },
+        {
+            "from": "au",
+            "to": "ad",
+            "transit_time": 93
+        },
+        {
+            "from": "au",
+            "to": "ac",
+            "transit_time": 44
+        },
+        {
+            "from": "au",
+            "to": "ay",
+            "transit_time": 11
+        },
+        {
+            "from": "at",
+            "to": "aq",
+            "transit_time": 67
+        },
+        {
+            "from": "at",
+            "to": "ao",
+            "transit_time": 58
+        },
+        {
+            "from": "at",
+            "to": "ah",
+            "transit_time": 53
+        },
+        {
+            "from": "at",
+            "to": "aw",
+            "transit_time": 28
+        },
+        {
+            "from": "at",
+            "to": "ae",
+            "transit_time": 23
+        },
+        {
+            "from": "at",
+            "to": "al",
+            "transit_time": 41
+        },
+        {
+            "from": "at",
+            "to": "ax",
+            "transit_time": 38
+        },
+        {
+            "from": "at",
+            "to": "ap",
+            "transit_time": 98
+        },
+        {
+            "from": "at",
+            "to": "af",
+            "transit_time": 98
+        },
+        {
+            "from": "at",
+            "to": "ac",
+            "transit_time": 94
+        },
+        {
+            "from": "at",
+            "to": "as",
+            "transit_time": 94
+        },
+        {
+            "from": "as",
+            "to": "ai",
+            "transit_time": 86
+        },
+        {
+            "from": "as",
+            "to": "an",
+            "transit_time": 88
+        },
+        {
+            "from": "as",
+            "to": "ag",
+            "transit_time": 18
+        },
+        {
+            "from": "as",
+            "to": "ar",
+            "transit_time": 87
+        },
+        {
+            "from": "as",
+            "to": "am",
+            "transit_time": 63
+        },
+        {
+            "from": "as",
+            "to": "ap",
+            "transit_time": 15
+        },
+        {
+            "from": "as",
+            "to": "ae",
+            "transit_time": 22
+        },
+        {
+            "from": "as",
+            "to": "aw",
+            "transit_time": 85
+        },
+        {
+            "from": "as",
+            "to": "ay",
+            "transit_time": 26
+        },
+        {
+            "from": "as",
+            "to": "aj",
+            "transit_time": 60
+        },
+        {
+            "from": "as",
+            "to": "ac",
+            "transit_time": 9
+        },
+        {
+            "from": "as",
+            "to": "at",
+            "transit_time": 94
+        },
+        {
+            "from": "ap",
+            "to": "av",
+            "transit_time": 5
+        },
+        {
+            "from": "ap",
+            "to": "ay",
+            "transit_time": 96
+        },
+        {
+            "from": "ap",
+            "to": "an",
+            "transit_time": 42
+        },
+        {
+            "from": "ap",
+            "to": "aa",
+            "transit_time": 89
+        },
+        {
+            "from": "ap",
+            "to": "aw",
+            "transit_time": 87
+        },
+        {
+            "from": "ap",
+            "to": "as",
+            "transit_time": 15
+        },
+        {
+            "from": "ap",
+            "to": "ab",
+            "transit_time": 24
+        },
+        {
+            "from": "ap",
+            "to": "aq",
+            "transit_time": 29
+        },
+        {
+            "from": "ap",
+            "to": "at",
+            "transit_time": 98
+        },
+        {
+            "from": "ap",
+            "to": "al",
+            "transit_time": 63
+        },
+        {
+            "from": "ap",
+            "to": "ae",
+            "transit_time": 76
+        },
+        {
+            "from": "ar",
+            "to": "av",
+            "transit_time": 93
+        },
+        {
+            "from": "ar",
+            "to": "ac",
+            "transit_time": 52
+        },
+        {
+            "from": "ar",
+            "to": "al",
+            "transit_time": 76
+        },
+        {
+            "from": "ar",
+            "to": "an",
+            "transit_time": 47
+        },
+        {
+            "from": "ar",
+            "to": "au",
+            "transit_time": 59
+        },
+        {
+            "from": "ar",
+            "to": "ao",
+            "transit_time": 10
+        },
+        {
+            "from": "ar",
+            "to": "ay",
+            "transit_time": 8
+        },
+        {
+            "from": "ar",
+            "to": "ag",
+            "transit_time": 47
+        },
+        {
+            "from": "ar",
+            "to": "ab",
+            "transit_time": 95
+        },
+        {
+            "from": "ar",
+            "to": "as",
+            "transit_time": 87
+        },
+        {
+            "from": "ar",
+            "to": "ai",
+            "transit_time": 56
+        },
+        {
+            "from": "ao",
+            "to": "au",
+            "transit_time": 77
+        },
+        {
+            "from": "ao",
+            "to": "ar",
+            "transit_time": 10
+        },
+        {
+            "from": "ao",
+            "to": "at",
+            "transit_time": 58
+        },
+        {
+            "from": "ao",
+            "to": "al",
+            "transit_time": 54
+        },
+        {
+            "from": "ao",
+            "to": "az",
+            "transit_time": 78
+        },
+        {
+            "from": "ao",
+            "to": "ab",
+            "transit_time": 77
+        },
+        {
+            "from": "ao",
+            "to": "av",
+            "transit_time": 25
+        },
+        {
+            "from": "ao",
+            "to": "ae",
+            "transit_time": 42
+        },
+        {
+            "from": "ao",
+            "to": "am",
+            "transit_time": 73
+        },
+        {
+            "from": "ao",
+            "to": "ai",
+            "transit_time": 16
+        },
+        {
+            "from": "aw",
+            "to": "ad",
+            "transit_time": 55
+        },
+        {
+            "from": "aw",
+            "to": "af",
+            "transit_time": 21
+        },
+        {
+            "from": "aw",
+            "to": "ab",
+            "transit_time": 98
+        },
+        {
+            "from": "aw",
+            "to": "aj",
+            "transit_time": 69
+        },
+        {
+            "from": "aw",
+            "to": "aq",
+            "transit_time": 3
+        },
+        {
+            "from": "aw",
+            "to": "ak",
+            "transit_time": 62
+        },
+        {
+            "from": "aw",
+            "to": "at",
+            "transit_time": 28
+        },
+        {
+            "from": "aw",
+            "to": "ap",
+            "transit_time": 87
+        },
+        {
+            "from": "aw",
+            "to": "ah",
+            "transit_time": 84
+        },
+        {
+            "from": "aw",
+            "to": "av",
+            "transit_time": 95
+        },
+        {
+            "from": "aw",
+            "to": "ae",
+            "transit_time": 92
+        },
+        {
+            "from": "aw",
+            "to": "as",
+            "transit_time": 85
+        },
+        {
+            "from": "aw",
+            "to": "ag",
+            "transit_time": 37
+        },
+        {
+            "from": "an",
+            "to": "as",
+            "transit_time": 88
+        },
+        {
+            "from": "an",
+            "to": "am",
+            "transit_time": 91
+        },
+        {
+            "from": "an",
+            "to": "ar",
+            "transit_time": 47
+        },
+        {
+            "from": "an",
+            "to": "ap",
+            "transit_time": 42
+        },
+        {
+            "from": "an",
+            "to": "al",
+            "transit_time": 69
+        },
+        {
+            "from": "an",
+            "to": "ak",
+            "transit_time": 54
+        },
+        {
+            "from": "an",
+            "to": "ab",
+            "transit_time": 74
+        },
+        {
+            "from": "an",
+            "to": "au",
+            "transit_time": 43
+        },
+        {
+            "from": "an",
+            "to": "az",
+            "transit_time": 12
+        },
+        {
+            "from": "an",
+            "to": "ax",
+            "transit_time": 58
+        },
+        {
+            "from": "an",
+            "to": "ad",
+            "transit_time": 72
+        },
+        {
+            "from": "aa",
+            "to": "ah",
+            "transit_time": 43
+        },
+        {
+            "from": "aa",
+            "to": "ag",
+            "transit_time": 86
+        },
+        {
+            "from": "aa",
+            "to": "ae",
+            "transit_time": 95
+        },
+        {
+            "from": "aa",
+            "to": "ap",
+            "transit_time": 89
+        },
+        {
+            "from": "aa",
+            "to": "aq",
+            "transit_time": 6
+        },
+        {
+            "from": "aa",
+            "to": "ab",
+            "transit_time": 64
+        },
+        {
+            "from": "aa",
+            "to": "ac",
+            "transit_time": 60
+        },
+        {
+            "from": "aa",
+            "to": "al",
+            "transit_time": 76
+        },
+        {
+            "from": "aa",
+            "to": "ad",
+            "transit_time": 32
+        },
+        {
+            "from": "aa",
+            "to": "am",
+            "transit_time": 15
+        },
+        {
+            "from": "ab",
+            "to": "az",
+            "transit_time": 60
+        },
+        {
+            "from": "ab",
+            "to": "aw",
+            "transit_time": 98
+        },
+        {
+            "from": "ab",
+            "to": "ar",
+            "transit_time": 95
+        },
+        {
+            "from": "ab",
+            "to": "ad",
+            "transit_time": 60
+        },
+        {
+            "from": "ab",
+            "to": "au",
+            "transit_time": 96
+        },
+        {
+            "from": "ab",
+            "to": "aj",
+            "transit_time": 62
+        },
+        {
+            "from": "ab",
+            "to": "af",
+            "transit_time": 87
+        },
+        {
+            "from": "ab",
+            "to": "aq",
+            "transit_time": 19
+        },
+        {
+            "from": "ab",
+            "to": "an",
+            "transit_time": 74
+        },
+        {
+            "from": "ab",
+            "to": "aa",
+            "transit_time": 64
+        },
+        {
+            "from": "ab",
+            "to": "ao",
+            "transit_time": 77
+        },
+        {
+            "from": "ab",
+            "to": "ap",
+            "transit_time": 24
+        },
+        {
+            "from": "ab",
+            "to": "ay",
+            "transit_time": 44
+        },
+        {
+            "from": "ac",
+            "to": "ar",
+            "transit_time": 52
+        },
+        {
+            "from": "ac",
+            "to": "aq",
+            "transit_time": 76
+        },
+        {
+            "from": "ac",
+            "to": "am",
+            "transit_time": 100
+        },
+        {
+            "from": "ac",
+            "to": "ay",
+            "transit_time": 69
+        },
+        {
+            "from": "ac",
+            "to": "aa",
+            "transit_time": 60
+        },
+        {
+            "from": "ac",
+            "to": "ax",
+            "transit_time": 46
+        },
+        {
+            "from": "ac",
+            "to": "al",
+            "transit_time": 32
+        },
+        {
+            "from": "ac",
+            "to": "au",
+            "transit_time": 44
+        },
+        {
+            "from": "ac",
+            "to": "as",
+            "transit_time": 9
+        },
+        {
+            "from": "ac",
+            "to": "at",
+            "transit_time": 94
+        },
+        {
+            "from": "aj",
+            "to": "ak",
+            "transit_time": 4
+        },
+        {
+            "from": "aj",
+            "to": "aw",
+            "transit_time": 69
+        },
+        {
+            "from": "aj",
+            "to": "am",
+            "transit_time": 71
+        },
+        {
+            "from": "aj",
+            "to": "ab",
+            "transit_time": 62
+        },
+        {
+            "from": "aj",
+            "to": "au",
+            "transit_time": 65
+        },
+        {
+            "from": "aj",
+            "to": "ay",
+            "transit_time": 29
+        },
+        {
+            "from": "aj",
+            "to": "af",
+            "transit_time": 97
+        },
+        {
+            "from": "aj",
+            "to": "ag",
+            "transit_time": 29
+        },
+        {
+            "from": "aj",
+            "to": "as",
+            "transit_time": 60
+        },
+        {
+            "from": "aj",
+            "to": "ae",
+            "transit_time": 27
+        },
+        {
+            "from": "af",
+            "to": "az",
+            "transit_time": 64
+        },
+        {
+            "from": "af",
+            "to": "aw",
+            "transit_time": 21
+        },
+        {
+            "from": "af",
+            "to": "ad",
+            "transit_time": 97
+        },
+        {
+            "from": "af",
+            "to": "ah",
+            "transit_time": 72
+        },
+        {
+            "from": "af",
+            "to": "ab",
+            "transit_time": 87
+        },
+        {
+            "from": "af",
+            "to": "ay",
+            "transit_time": 93
+        },
+        {
+            "from": "af",
+            "to": "av",
+            "transit_time": 71
+        },
+        {
+            "from": "af",
+            "to": "aj",
+            "transit_time": 97
+        },
+        {
+            "from": "af",
+            "to": "at",
+            "transit_time": 98
+        },
+        {
+            "from": "af",
+            "to": "ae",
+            "transit_time": 35
+        },
+        {
+            "from": "af",
+            "to": "al",
+            "transit_time": 33
+        },
+        {
+            "from": "ag",
+            "to": "av",
+            "transit_time": 93
+        },
+        {
+            "from": "ag",
+            "to": "aq",
+            "transit_time": 23
+        },
+        {
+            "from": "ag",
+            "to": "ah",
+            "transit_time": 5
+        },
+        {
+            "from": "ag",
+            "to": "ak",
+            "transit_time": 80
+        },
+        {
+            "from": "ag",
+            "to": "aa",
+            "transit_time": 86
+        },
+        {
+            "from": "ag",
+            "to": "ar",
+            "transit_time": 47
+        },
+        {
+            "from": "ag",
+            "to": "au",
+            "transit_time": 31
+        },
+        {
+            "from": "ag",
+            "to": "as",
+            "transit_time": 18
+        },
+        {
+            "from": "ag",
+            "to": "az",
+            "transit_time": 21
+        },
+        {
+            "from": "ag",
+            "to": "aj",
+            "transit_time": 29
+        },
+        {
+            "from": "ag",
+            "to": "ai",
+            "transit_time": 31
+        },
+        {
+            "from": "ag",
+            "to": "aw",
+            "transit_time": 37
+        },
+        {
+            "from": "ah",
+            "to": "ag",
+            "transit_time": 5
+        },
+        {
+            "from": "ah",
+            "to": "aa",
+            "transit_time": 43
+        },
+        {
+            "from": "ah",
+            "to": "am",
+            "transit_time": 20
+        },
+        {
+            "from": "ah",
+            "to": "ae",
+            "transit_time": 98
+        },
+        {
+            "from": "ah",
+            "to": "at",
+            "transit_time": 53
+        },
+        {
+            "from": "ah",
+            "to": "af",
+            "transit_time": 72
+        },
+        {
+            "from": "ah",
+            "to": "ak",
+            "transit_time": 98
+        },
+        {
+            "from": "ah",
+            "to": "aw",
+            "transit_time": 84
+        },
+        {
+            "from": "ah",
+            "to": "az",
+            "transit_time": 27
+        },
+        {
+            "from": "ah",
+            "to": "aq",
+            "transit_time": 56
+        },
+        {
+            "from": "ah",
+            "to": "ad",
+            "transit_time": 16
+        },
+        {
+            "from": "ad",
+            "to": "ai",
+            "transit_time": 87
+        },
+        {
+            "from": "ad",
+            "to": "aw",
+            "transit_time": 55
+        },
+        {
+            "from": "ad",
+            "to": "af",
+            "transit_time": 97
+        },
+        {
+            "from": "ad",
+            "to": "ab",
+            "transit_time": 60
+        },
+        {
+            "from": "ad",
+            "to": "am",
+            "transit_time": 53
+        },
+        {
+            "from": "ad",
+            "to": "ax",
+            "transit_time": 67
+        },
+        {
+            "from": "ad",
+            "to": "au",
+            "transit_time": 93
+        },
+        {
+            "from": "ad",
+            "to": "ah",
+            "transit_time": 16
+        },
+        {
+            "from": "ad",
+            "to": "an",
+            "transit_time": 72
+        },
+        {
+            "from": "ad",
+            "to": "aa",
+            "transit_time": 32
+        },
+        {
+            "from": "al",
+            "to": "ar",
+            "transit_time": 76
+        },
+        {
+            "from": "al",
+            "to": "ao",
+            "transit_time": 54
+        },
+        {
+            "from": "al",
+            "to": "an",
+            "transit_time": 69
+        },
+        {
+            "from": "al",
+            "to": "am",
+            "transit_time": 98
+        },
+        {
+            "from": "al",
+            "to": "at",
+            "transit_time": 41
+        },
+        {
+            "from": "al",
+            "to": "aa",
+            "transit_time": 76
+        },
+        {
+            "from": "al",
+            "to": "ac",
+            "transit_time": 32
+        },
+        {
+            "from": "al",
+            "to": "ap",
+            "transit_time": 63
+        },
+        {
+            "from": "al",
+            "to": "af",
+            "transit_time": 33
+        },
+        {
+            "from": "ai",
+            "to": "aq",
+            "transit_time": 79
+        },
+        {
+            "from": "ai",
+            "to": "as",
+            "transit_time": 86
+        },
+        {
+            "from": "ai",
+            "to": "ad",
+            "transit_time": 87
+        },
+        {
+            "from": "ai",
+            "to": "az",
+            "transit_time": 47
+        },
+        {
+            "from": "ai",
+            "to": "ar",
+            "transit_time": 56
+        },
+        {
+            "from": "ai",
+            "to": "ag",
+            "transit_time": 31
+        },
+        {
+            "from": "ai",
+            "to": "ao",
+            "transit_time": 16
+        },
+        {
+            "from": "aq",
+            "to": "ag",
+            "transit_time": 23
+        },
+        {
+            "from": "aq",
+            "to": "ai",
+            "transit_time": 79
+        },
+        {
+            "from": "aq",
+            "to": "au",
+            "transit_time": 55
+        },
+        {
+            "from": "aq",
+            "to": "at",
+            "transit_time": 67
+        },
+        {
+            "from": "aq",
+            "to": "ac",
+            "transit_time": 76
+        },
+        {
+            "from": "aq",
+            "to": "aa",
+            "transit_time": 6
+        },
+        {
+            "from": "aq",
+            "to": "aw",
+            "transit_time": 3
+        },
+        {
+            "from": "aq",
+            "to": "ab",
+            "transit_time": 19
+        },
+        {
+            "from": "aq",
+            "to": "ax",
+            "transit_time": 97
+        },
+        {
+            "from": "aq",
+            "to": "ah",
+            "transit_time": 56
+        },
+        {
+            "from": "aq",
+            "to": "ap",
+            "transit_time": 29
+        },
+        {
+            "from": "aq",
+            "to": "ay",
+            "transit_time": 4
+        },
+        {
+            "from": "ak",
+            "to": "ag",
+            "transit_time": 80
+        },
+        {
+            "from": "ak",
+            "to": "aj",
+            "transit_time": 4
+        },
+        {
+            "from": "ak",
+            "to": "ax",
+            "transit_time": 14
+        },
+        {
+            "from": "ak",
+            "to": "ah",
+            "transit_time": 98
+        },
+        {
+            "from": "ak",
+            "to": "aw",
+            "transit_time": 62
+        },
+        {
+            "from": "ak",
+            "to": "an",
+            "transit_time": 54
+        },
+        {
+            "from": "ae",
+            "to": "ah",
+            "transit_time": 98
+        },
+        {
+            "from": "ae",
+            "to": "au",
+            "transit_time": 37
+        },
+        {
+            "from": "ae",
+            "to": "aa",
+            "transit_time": 95
+        },
+        {
+            "from": "ae",
+            "to": "am",
+            "transit_time": 2
+        },
+        {
+            "from": "ae",
+            "to": "at",
+            "transit_time": 23
+        },
+        {
+            "from": "ae",
+            "to": "as",
+            "transit_time": 22
+        },
+        {
+            "from": "ae",
+            "to": "ao",
+            "transit_time": 42
+        },
+        {
+            "from": "ae",
+            "to": "aw",
+            "transit_time": 92
+        },
+        {
+            "from": "ae",
+            "to": "af",
+            "transit_time": 35
+        },
+        {
+            "from": "ae",
+            "to": "aj",
+            "transit_time": 27
+        },
+        {
+            "from": "ae",
+            "to": "ap",
+            "transit_time": 76
+        },
+        {
+            "from": "am",
+            "to": "ah",
+            "transit_time": 20
+        },
+        {
+            "from": "am",
+            "to": "av",
+            "transit_time": 79
+        },
+        {
+            "from": "am",
+            "to": "au",
+            "transit_time": 70
+        },
+        {
+            "from": "am",
+            "to": "an",
+            "transit_time": 91
+        },
+        {
+            "from": "am",
+            "to": "aj",
+            "transit_time": 71
+        },
+        {
+            "from": "am",
+            "to": "ae",
+            "transit_time": 2
+        },
+        {
+            "from": "am",
+            "to": "ac",
+            "transit_time": 100
+        },
+        {
+            "from": "am",
+            "to": "ad",
+            "transit_time": 53
+        },
+        {
+            "from": "am",
+            "to": "as",
+            "transit_time": 63
+        },
+        {
+            "from": "am",
+            "to": "al",
+            "transit_time": 98
+        },
+        {
+            "from": "am",
+            "to": "ao",
+            "transit_time": 73
+        },
+        {
+            "from": "am",
+            "to": "aa",
+            "transit_time": 15
+        }
+    ]
+}

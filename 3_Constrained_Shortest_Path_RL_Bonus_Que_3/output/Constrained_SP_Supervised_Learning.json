@@ -1,0 +1,466 @@
+[
+    {
+        "source": "lw",
+        "target": "cf",
+        "demand": 10.5,
+        "predicted_path": [
+            "lw",
+            "yv",
+            "hp",
+            "ux",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "lw-yv": 12.5,
+            "yv-hp": 0.0,
+            "hp-ux": 52.6,
+            "ux-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "lw",
+        "target": "gl",
+        "demand": 2,
+        "predicted_path": [
+            "lw",
+            "yv",
+            "gl"
+        ],
+        "edge-utilization": {
+            "lw-yv": 12.5,
+            "yv-gl": 0.0
+        }
+    },
+    {
+        "source": "ux",
+        "target": "jm",
+        "demand": 10.5,
+        "predicted_path": [
+            "ux",
+            "hp",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "ux-hp": 10.5,
+            "hp-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "zq",
+        "target": "lw",
+        "demand": 50.6,
+        "predicted_path": [
+            "zq",
+            "gl",
+            "wr",
+            "sv",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "zq-gl": 75.0,
+            "gl-wr": 0.0,
+            "wr-sv": 0.0,
+            "sv-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "zq",
+        "target": "wz",
+        "demand": 25.1,
+        "predicted_path": [
+            "zq",
+            "gl",
+            "co",
+            "cw",
+            "wz"
+        ],
+        "edge-utilization": {
+            "zq-gl": 75.0,
+            "gl-co": 0.7000000000000028,
+            "co-cw": 50.6,
+            "cw-wz": 0.0
+        }
+    },
+    {
+        "source": "dq",
+        "target": "qx",
+        "demand": 25.1,
+        "predicted_path": [
+            "dq",
+            "gl",
+            "qx"
+        ],
+        "edge-utilization": {
+            "dq-gl": 25.1,
+            "gl-qx": 0.0
+        }
+    },
+    {
+        "source": "cf",
+        "target": "co",
+        "demand": 50.6,
+        "predicted_path": [
+            "cf",
+            "bt",
+            "js",
+            "ek",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "cf-bt": 50.0,
+            "bt-js": 0.6000000000000014,
+            "js-ek": 75.0,
+            "ek-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "pm",
+        "target": "gl",
+        "demand": 10.5,
+        "predicted_path": [
+            "pm",
+            "co",
+            "gl"
+        ],
+        "edge-utilization": {
+            "pm-co": 12.5,
+            "co-gl": 0.0
+        }
+    },
+    {
+        "source": "pm",
+        "target": "wz",
+        "demand": 2,
+        "predicted_path": [
+            "pm",
+            "co",
+            "cw",
+            "wz"
+        ],
+        "edge-utilization": {
+            "pm-co": 12.5,
+            "co-cw": 50.6,
+            "cw-wz": 0.0
+        }
+    },
+    {
+        "source": "js",
+        "target": "yh",
+        "demand": 50.6,
+        "predicted_path": [
+            "js",
+            "ek",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "js-ek": 75.0,
+            "ek-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "js",
+        "target": "hg",
+        "demand": 25.1,
+        "predicted_path": [
+            "js",
+            "ek",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "js-ek": 75.0,
+            "ek-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "sg",
+        "target": "ek",
+        "demand": 2,
+        "predicted_path": [
+            "sg",
+            "wr",
+            "gl",
+            "co",
+            "ux",
+            "hp",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "sg-wr": 2.0,
+            "wr-gl": 12.5,
+            "gl-co": 0.7000000000000028,
+            "co-ux": 0.0,
+            "ux-hp": 10.5,
+            "hp-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "yh",
+        "target": "rc",
+        "demand": 10.5,
+        "predicted_path": [
+            "yh",
+            "co",
+            "cw",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "yh-co": 10.5,
+            "co-cw": 50.6,
+            "cw-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "hg",
+        "target": "if",
+        "demand": 10.5,
+        "predicted_path": [
+            "hg",
+            "ps",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "hg-ps": 21.0,
+            "ps-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "hg",
+        "target": "am",
+        "demand": 10.5,
+        "predicted_path": [
+            "hg",
+            "ps",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "hg-ps": 21.0,
+            "ps-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "od",
+        "target": "if",
+        "demand": 2,
+        "predicted_path": [
+            "od",
+            "am",
+            "jm",
+            "if"
+        ],
+        "edge-utilization": {
+            "od-am": 2.0,
+            "am-jm": 2.0,
+            "jm-if": 0.0
+        }
+    },
+    {
+        "source": "am",
+        "target": "gu",
+        "demand": 2,
+        "predicted_path": [
+            "am",
+            "jm",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "am-jm": 2.0,
+            "jm-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "wr",
+        "target": "am",
+        "demand": 2,
+        "predicted_path": [
+            "wr",
+            "gl",
+            "co",
+            "cw",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "wr-gl": 12.5,
+            "gl-co": 0.7000000000000028,
+            "co-cw": 50.6,
+            "cw-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "wr",
+        "target": "dq",
+        "demand": 10.5,
+        "predicted_path": [
+            "wr",
+            "gl",
+            "dq"
+        ],
+        "edge-utilization": {
+            "wr-gl": 12.5,
+            "gl-dq": 0.0
+        }
+    },
+    {
+        "source": "co",
+        "target": "jm",
+        "demand": 50.6,
+        "predicted_path": [
+            "co",
+            "cw",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "co-cw": 50.6,
+            "cw-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "mc",
+        "target": "co",
+        "demand": 25.1,
+        "predicted_path": [
+            "mc",
+            "hg",
+            "ps",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "mc-hg": 25.1,
+            "hg-ps": 21.0,
+            "ps-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "hp",
+        "target": "co",
+        "demand": 2,
+        "predicted_path": [
+            "hp",
+            "ux",
+            "co"
+        ],
+        "edge-utilization": {
+            "hp-ux": 52.6,
+            "ux-co": 0.0
+        }
+    },
+    {
+        "source": "hp",
+        "target": "qx",
+        "demand": 50.6,
+        "predicted_path": [
+            "hp",
+            "ux",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "hp-ux": 52.6,
+            "ux-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "mr",
+        "target": "dq",
+        "demand": 50.6,
+        "predicted_path": [
+            "mr",
+            "cw",
+            "co",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "mr-cw": 25.0,
+            "cw-co": 4.399999999999999,
+            "co-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "ec",
+        "target": "pm",
+        "demand": 25.1,
+        "predicted_path": [
+            "ec",
+            "qx",
+            "am",
+            "jm",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "ec-qx": 25.1,
+            "qx-am": 0.0,
+            "am-jm": 2.0,
+            "jm-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "rc",
+        "target": "sv",
+        "demand": 25.1,
+        "predicted_path": [
+            "rc",
+            "gl",
+            "wr",
+            "sv"
+        ],
+        "edge-utilization": {
+            "rc-gl": 25.1,
+            "gl-wr": 0.0,
+            "wr-sv": 0.0
+        }
+    },
+    {
+        "source": "jm",
+        "target": "hp",
+        "demand": 50.6,
+        "predicted_path": [
+            "jm",
+            "am",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "jm-am": 50.6,
+            "am-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "ek",
+        "target": "js",
+        "demand": 10.5,
+        "predicted_path": [
+            "ek",
+            "js"
+        ],
+        "edge-utilization": {
+            "ek-js": 0.0
+        }
+    },
+    {
+        "source": "kg",
+        "target": "sg",
+        "demand": 25.1,
+        "predicted_path": [
+            "kg",
+            "zq",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "kg-zq": 25.1,
+            "zq-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "zr",
+        "target": "js",
+        "demand": 10.5,
+        "predicted_path": [
+            "zr",
+            "yh",
+            "co",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "zr-yh": 10.5,
+            "yh-co": 10.5,
+            "co-LOOP/DEADEND": 0
+        }
+    }
+]

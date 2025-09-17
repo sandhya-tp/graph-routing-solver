@@ -1,0 +1,461 @@
+{
+    "shortest_paths": [
+        {
+            "from": "sv",
+            "to": "ps",
+            "distance": 177,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "ps"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "cw",
+            "distance": 223,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "co",
+                "cw"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "ec",
+            "distance": 121,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "ec"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "bs",
+            "distance": 241,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw",
+                "bs"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "lg",
+            "distance": 199,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "mw",
+                "lg"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "rc",
+            "distance": 123,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "rc"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "wz",
+            "distance": 195,
+            "path": [
+                "sv",
+                "wr",
+                "bt",
+                "wz"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "if",
+            "distance": 149,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "jm",
+                "if"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "pk",
+            "distance": 193,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "pk"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "co",
+            "distance": 172,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "co"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "yv",
+            "distance": 159,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw",
+                "yv"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "pm",
+            "distance": 213,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "co",
+                "pm"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "js",
+            "distance": 196,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw",
+                "js"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "dq",
+            "distance": 188,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "dq"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "qx",
+            "distance": 108,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "mc",
+            "distance": 217,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "hp",
+                "mc"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "mr",
+            "distance": 262,
+            "path": [
+                "sv",
+                "wr",
+                "bt",
+                "cf",
+                "mr"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "lw",
+            "distance": 175,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw",
+                "yv",
+                "lw"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "gu",
+            "distance": 230,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "zq",
+                "gu"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "ek",
+            "distance": 233,
+            "path": [
+                "sv",
+                "wr",
+                "bt",
+                "ek"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "bw",
+            "distance": 147,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "sv",
+            "distance": 0,
+            "path": [
+                "sv"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "yk",
+            "distance": 188,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "jm",
+                "yk"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "hp",
+            "distance": 171,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "hp"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "ux",
+            "distance": 198,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "jm",
+                "if",
+                "ux"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "sg",
+            "distance": 140,
+            "path": [
+                "sv",
+                "wr",
+                "sg"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "mw",
+            "distance": 138,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "mw"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "am",
+            "distance": 178,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "jm",
+                "am"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "bt",
+            "distance": 157,
+            "path": [
+                "sv",
+                "wr",
+                "bt"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "wr",
+            "distance": 74,
+            "path": [
+                "sv",
+                "wr"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "jm",
+            "distance": 118,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "jm"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "zq",
+            "distance": 172,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "zq"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "zr",
+            "distance": 249,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "co",
+                "zr"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "cf",
+            "distance": 221,
+            "path": [
+                "sv",
+                "wr",
+                "bt",
+                "cf"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "od",
+            "distance": 189,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw",
+                "od"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "gl",
+            "distance": 90,
+            "path": [
+                "sv",
+                "wr",
+                "gl"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "hg",
+            "distance": 227,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "ps",
+                "hg"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "kg",
+            "distance": 207,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw",
+                "kg"
+            ]
+        },
+        {
+            "from": "sv",
+            "to": "yh",
+            "distance": 207,
+            "path": [
+                "sv",
+                "wr",
+                "gl",
+                "qx",
+                "bw",
+                "yh"
+            ]
+        }
+    ]
+}

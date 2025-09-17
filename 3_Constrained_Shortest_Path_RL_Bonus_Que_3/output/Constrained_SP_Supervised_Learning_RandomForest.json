@@ -1,0 +1,488 @@
+[
+    {
+        "source": "lw",
+        "target": "cf",
+        "demand": 10.5,
+        "predicted_path": [
+            "lw",
+            "yv",
+            "bw",
+            "js",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "lw-yv": 12.5,
+            "yv-bw": 0.0,
+            "bw-js": 0.0,
+            "js-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "lw",
+        "target": "gl",
+        "demand": 2,
+        "predicted_path": [
+            "lw",
+            "yv",
+            "gl"
+        ],
+        "edge-utilization": {
+            "lw-yv": 12.5,
+            "yv-gl": 0.0
+        }
+    },
+    {
+        "source": "ux",
+        "target": "jm",
+        "demand": 10.5,
+        "predicted_path": [
+            "ux",
+            "if",
+            "jm"
+        ],
+        "edge-utilization": {
+            "ux-if": 10.5,
+            "if-jm": 0.0
+        }
+    },
+    {
+        "source": "zq",
+        "target": "lw",
+        "demand": 50.6,
+        "predicted_path": [
+            "zq",
+            "yv",
+            "hp",
+            "dq",
+            "gl",
+            "wr",
+            "sv",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "zq-yv": 50.6,
+            "yv-hp": 0.0,
+            "hp-dq": 52.6,
+            "dq-gl": 25.1,
+            "gl-wr": 0.0,
+            "wr-sv": 12.5,
+            "sv-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "zq",
+        "target": "wz",
+        "demand": 25.1,
+        "predicted_path": [
+            "zq",
+            "js",
+            "wz"
+        ],
+        "edge-utilization": {
+            "zq-js": 25.1,
+            "js-wz": 0.0
+        }
+    },
+    {
+        "source": "dq",
+        "target": "qx",
+        "demand": 25.1,
+        "predicted_path": [
+            "dq",
+            "gl",
+            "qx"
+        ],
+        "edge-utilization": {
+            "dq-gl": 25.1,
+            "gl-qx": 0.0
+        }
+    },
+    {
+        "source": "cf",
+        "target": "co",
+        "demand": 50.6,
+        "predicted_path": [
+            "cf",
+            "mr",
+            "cw",
+            "co"
+        ],
+        "edge-utilization": {
+            "cf-mr": 50.6,
+            "mr-cw": 25.0,
+            "cw-co": 25.6
+        }
+    },
+    {
+        "source": "pm",
+        "target": "gl",
+        "demand": 10.5,
+        "predicted_path": [
+            "pm",
+            "co",
+            "gl"
+        ],
+        "edge-utilization": {
+            "pm-co": 12.5,
+            "co-gl": 50.6
+        }
+    },
+    {
+        "source": "pm",
+        "target": "wz",
+        "demand": 2,
+        "predicted_path": [
+            "pm",
+            "co",
+            "zq",
+            "gu",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "pm-co": 12.5,
+            "co-zq": 0.0,
+            "zq-gu": 0.0,
+            "gu-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "js",
+        "target": "yh",
+        "demand": 50.6,
+        "predicted_path": [
+            "js",
+            "bw",
+            "yh"
+        ],
+        "edge-utilization": {
+            "js-bw": 75.7,
+            "bw-yh": 0.0
+        }
+    },
+    {
+        "source": "js",
+        "target": "hg",
+        "demand": 25.1,
+        "predicted_path": [
+            "js",
+            "bw",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "js-bw": 75.7,
+            "bw-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "sg",
+        "target": "ek",
+        "demand": 2,
+        "predicted_path": [
+            "sg",
+            "ux",
+            "wz",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "sg-ux": 2.0,
+            "ux-wz": 0.0,
+            "wz-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "yh",
+        "target": "rc",
+        "demand": 10.5,
+        "predicted_path": [
+            "yh",
+            "bt",
+            "js",
+            "bw",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "yh-bt": 10.5,
+            "bt-js": 0.0,
+            "js-bw": 75.7,
+            "bw-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "hg",
+        "target": "if",
+        "demand": 10.5,
+        "predicted_path": [
+            "hg",
+            "ps",
+            "gl",
+            "rc",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "hg-ps": 21.0,
+            "ps-gl": 0.0,
+            "gl-rc": 0.0,
+            "rc-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "hg",
+        "target": "am",
+        "demand": 10.5,
+        "predicted_path": [
+            "hg",
+            "ps",
+            "gl",
+            "rc",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "hg-ps": 21.0,
+            "ps-gl": 0.0,
+            "gl-rc": 0.0,
+            "rc-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "od",
+        "target": "if",
+        "demand": 2,
+        "predicted_path": [
+            "od",
+            "bw",
+            "js",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "od-bw": 2.0,
+            "bw-js": 0.0,
+            "js-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "am",
+        "target": "gu",
+        "demand": 2,
+        "predicted_path": [
+            "am",
+            "jm",
+            "if",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "am-jm": 2.0,
+            "jm-if": 50.0,
+            "if-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "wr",
+        "target": "am",
+        "demand": 2,
+        "predicted_path": [
+            "wr",
+            "sv",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "wr-sv": 12.5,
+            "sv-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "wr",
+        "target": "dq",
+        "demand": 10.5,
+        "predicted_path": [
+            "wr",
+            "sv",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "wr-sv": 12.5,
+            "sv-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "co",
+        "target": "jm",
+        "demand": 50.6,
+        "predicted_path": [
+            "co",
+            "gl",
+            "wr",
+            "sv",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "co-gl": 50.6,
+            "gl-wr": 0.0,
+            "wr-sv": 12.5,
+            "sv-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "mc",
+        "target": "co",
+        "demand": 25.1,
+        "predicted_path": [
+            "mc",
+            "yh",
+            "co"
+        ],
+        "edge-utilization": {
+            "mc-yh": 25.1,
+            "yh-co": 0.0
+        }
+    },
+    {
+        "source": "hp",
+        "target": "co",
+        "demand": 2,
+        "predicted_path": [
+            "hp",
+            "dq",
+            "gl",
+            "co"
+        ],
+        "edge-utilization": {
+            "hp-dq": 52.6,
+            "dq-gl": 25.1,
+            "gl-co": 0.0
+        }
+    },
+    {
+        "source": "hp",
+        "target": "qx",
+        "demand": 50.6,
+        "predicted_path": [
+            "hp",
+            "dq",
+            "gl",
+            "qx"
+        ],
+        "edge-utilization": {
+            "hp-dq": 52.6,
+            "dq-gl": 25.1,
+            "gl-qx": 0.0
+        }
+    },
+    {
+        "source": "mr",
+        "target": "dq",
+        "demand": 50.6,
+        "predicted_path": [
+            "mr",
+            "cw",
+            "co",
+            "ux",
+            "if",
+            "qx",
+            "jm",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "mr-cw": 25.0,
+            "cw-co": 25.6,
+            "co-ux": 0.0,
+            "ux-if": 10.5,
+            "if-qx": 0.6000000000000014,
+            "qx-jm": 0.0,
+            "jm-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "ec",
+        "target": "pm",
+        "demand": 25.1,
+        "predicted_path": [
+            "ec",
+            "qx",
+            "jm",
+            "if",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "ec-qx": 25.1,
+            "qx-jm": 0.0,
+            "jm-if": 50.0,
+            "if-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "rc",
+        "target": "sv",
+        "demand": 25.1,
+        "predicted_path": [
+            "rc",
+            "gl",
+            "wr",
+            "sv"
+        ],
+        "edge-utilization": {
+            "rc-gl": 25.1,
+            "gl-wr": 0.0,
+            "wr-sv": 12.5
+        }
+    },
+    {
+        "source": "jm",
+        "target": "hp",
+        "demand": 50.6,
+        "predicted_path": [
+            "jm",
+            "if",
+            "qx",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "jm-if": 50.0,
+            "if-qx": 0.6000000000000014,
+            "qx-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "ek",
+        "target": "js",
+        "demand": 10.5,
+        "predicted_path": [
+            "ek",
+            "js"
+        ],
+        "edge-utilization": {
+            "ek-js": 10.5
+        }
+    },
+    {
+        "source": "kg",
+        "target": "sg",
+        "demand": 25.1,
+        "predicted_path": [
+            "kg",
+            "bw",
+            "js",
+            "LOOP/DEADEND"
+        ],
+        "edge-utilization": {
+            "kg-bw": 25.1,
+            "bw-js": 0.0,
+            "js-LOOP/DEADEND": 0
+        }
+    },
+    {
+        "source": "zr",
+        "target": "js",
+        "demand": 10.5,
+        "predicted_path": [
+            "zr",
+            "yh",
+            "bt",
+            "js"
+        ],
+        "edge-utilization": {
+            "zr-yh": 10.5,
+            "yh-bt": 10.5,
+            "bt-js": 0.0
+        }
+    }
+]

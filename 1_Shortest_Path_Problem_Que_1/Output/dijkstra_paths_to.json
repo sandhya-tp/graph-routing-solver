@@ -1,0 +1,394 @@
+{
+    "shortest_paths": [
+        {
+            "from": "co",
+            "to": "ps",
+            "distance": 169,
+            "path": [
+                "co",
+                "gl",
+                "ps"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "cw",
+            "distance": 51,
+            "path": [
+                "co",
+                "cw"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "ec",
+            "distance": 113,
+            "path": [
+                "co",
+                "gl",
+                "qx",
+                "ec"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "bs",
+            "distance": 188,
+            "path": [
+                "co",
+                "yv",
+                "bw",
+                "bs"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "lg",
+            "distance": 68,
+            "path": [
+                "co",
+                "yh",
+                "lg"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "rc",
+            "distance": 115,
+            "path": [
+                "co",
+                "gl",
+                "rc"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "wz",
+            "distance": 131,
+            "path": [
+                "co",
+                "ux",
+                "wz"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "if",
+            "distance": 92,
+            "path": [
+                "co",
+                "ux",
+                "if"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "qx",
+            "distance": 100,
+            "path": [
+                "co",
+                "gl",
+                "qx"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "js",
+            "distance": 135,
+            "path": [
+                "co",
+                "zq",
+                "js"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "dq",
+            "distance": 169,
+            "path": [
+                "co",
+                "ux",
+                "hp",
+                "dq"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "mc",
+            "distance": 109,
+            "path": [
+                "co",
+                "yh",
+                "mc"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "mr",
+            "distance": 145,
+            "path": [
+                "co",
+                "cw",
+                "mr"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "lw",
+            "distance": 98,
+            "path": [
+                "co",
+                "yv",
+                "lw"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "gu",
+            "distance": 100,
+            "path": [
+                "co",
+                "zq",
+                "gu"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "pm",
+            "distance": 41,
+            "path": [
+                "co",
+                "pm"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "yv",
+            "distance": 82,
+            "path": [
+                "co",
+                "yv"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "ek",
+            "distance": 109,
+            "path": [
+                "co",
+                "cw",
+                "ek"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "bw",
+            "distance": 94,
+            "path": [
+                "co",
+                "yv",
+                "bw"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "sv",
+            "distance": 172,
+            "path": [
+                "co",
+                "gl",
+                "wr",
+                "sv"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "pk",
+            "distance": 167,
+            "path": [
+                "co",
+                "cw",
+                "yk",
+                "pk"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "co",
+            "distance": 0,
+            "path": [
+                "co"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "yk",
+            "distance": 98,
+            "path": [
+                "co",
+                "cw",
+                "yk"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "hp",
+            "distance": 74,
+            "path": [
+                "co",
+                "ux",
+                "hp"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "ux",
+            "distance": 43,
+            "path": [
+                "co",
+                "ux"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "sg",
+            "distance": 132,
+            "path": [
+                "co",
+                "ux",
+                "sg"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "mw",
+            "distance": 129,
+            "path": [
+                "co",
+                "yh",
+                "lg",
+                "mw"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "am",
+            "distance": 117,
+            "path": [
+                "co",
+                "cw",
+                "yk",
+                "am"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "bt",
+            "distance": 126,
+            "path": [
+                "co",
+                "yh",
+                "bt"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "wr",
+            "distance": 98,
+            "path": [
+                "co",
+                "gl",
+                "wr"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "jm",
+            "distance": 110,
+            "path": [
+                "co",
+                "gl",
+                "qx",
+                "jm"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "zq",
+            "distance": 42,
+            "path": [
+                "co",
+                "zq"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "zr",
+            "distance": 77,
+            "path": [
+                "co",
+                "zr"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "cf",
+            "distance": 186,
+            "path": [
+                "co",
+                "cw",
+                "mr",
+                "cf"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "od",
+            "distance": 136,
+            "path": [
+                "co",
+                "yv",
+                "bw",
+                "od"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "gl",
+            "distance": 82,
+            "path": [
+                "co",
+                "gl"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "hg",
+            "distance": 132,
+            "path": [
+                "co",
+                "yh",
+                "hg"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "kg",
+            "distance": 117,
+            "path": [
+                "co",
+                "zq",
+                "kg"
+            ]
+        },
+        {
+            "from": "co",
+            "to": "yh",
+            "distance": 57,
+            "path": [
+                "co",
+                "yh"
+            ]
+        }
+    ]
+}

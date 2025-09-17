@@ -1,0 +1,18 @@
+[GRAPH] Nodes: 0 | Edges: 0
+[LOG] Operation: ShortestPath | Time: 23 ms | Call Count: 1
+[GRAPH] Nodes: 0 | Edges: 0
+[LOG] Operation: ShortestPath | Time: 21 ms | Call Count: 1
+[GRAPH] Nodes: 0 | Edges: 0
+[LOG] Operation: ShortestPath | Time: 22 ms | Call Count: 1
+[GRAPH] Nodes: 39 | Edges: 94
+[LOG] Operation: ShortestPath | Time: 21 ms | Call Count: 1
+[GRAPH] Nodes: 39 | Edges: 94
+[LOG] Operation: Dijkstra from source to all | Time: 1 ms | Call Count: 1
+[LOG] Operation: Dijkstra between two nodes | Time: 1 ms | Call Count: 1
+[LOG] Operation: All pairs shortest paths | Time: 18 ms | Call Count: 1
+[LOG] Operation: Dijkstra to target node | Time: 1 ms | Call Count: 1
+[GRAPH] Nodes: 39 | Edges: 94
+[LOG] Operation: Dijkstra from source to all | Time: 0 ms | Call Count: 1
+[LOG] Operation: Dijkstra between two nodes | Time: 0 ms | Call Count: 1
+[LOG] Operation: All pairs shortest paths | Time: 11 ms | Call Count: 1
+[LOG] Operation: Dijkstra to target node | Time: 0 ms | Call Count: 1
